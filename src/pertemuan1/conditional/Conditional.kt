@@ -17,7 +17,7 @@ fun main() {
 //    } else {
 //        office = "Office is closed"
 //    }
-//
+
 //    print(office)
 
     // IF as an Expression
@@ -29,7 +29,7 @@ fun main() {
 //    } else {
 //        "Office is closed"
 //    }
-//
+
 //    print(office)
 
     // IF ELSE IF
@@ -43,7 +43,17 @@ fun main() {
 //    } else {
 //        "Office is closed"
 //    }
-//
+
 //    print(office)
+
+// 2. when
+
+when(x){
+    1 -> println("Satu")
+    2 -> println("dua")
+    else -> println("teuing")
+}
+
+// 3. TODO, buat ? dan !!
 
 }
